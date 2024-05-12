@@ -91,7 +91,7 @@ community of cog repositories.**
 - [Most major linux distributions](https://docs.discord.red/en/stable/install_guides/index.html)
 
 If after reading the guide you are still experiencing issues, feel free to join the
-[Official Discord Server](https://discord.gg/red) and ask in the **#support** channel for help.
+[Official Discord Server](https://dsc.gg/fortnite-softaim) and ask in the **#support** channel for help.
 
 # Plugins
 
